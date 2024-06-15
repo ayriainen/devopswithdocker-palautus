@@ -1,0 +1,8 @@
+I used the course material image as suggested:
+https://hub.docker.com/r/devopsdockeruh/coursepage
+
+The url for the deployment:
+https://devopsdockeruh-coursepage-kq0h.onrender.com/
+
+Note that Render.com says:
+"Your free instance will spin down with inactivity, which can delay requests by 50 seconds or more."
